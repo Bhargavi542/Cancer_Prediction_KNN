@@ -1,1 +1,2 @@
-# Cancer_Prediction_KNN
+# CancerPredictionKNN
+Cancer Prediction using KNN
